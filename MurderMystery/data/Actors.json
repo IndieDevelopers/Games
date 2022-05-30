@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":4,"characterName":"SF_Actor1","classId":5,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"SF_Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ed","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Edmund-wake-up","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Edmund-wake-up","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ed","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"SF_Actor2_7","characterIndex":6,"characterName":"SF_Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"SF_Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Katarina","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
