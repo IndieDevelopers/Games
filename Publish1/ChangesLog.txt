@@ -1,0 +1,101 @@
+1 Home:
+- Washroom Interactions
+- Tiles Rearranging
+
+2 Office: 
+- Office fridge and mirovawe interactions
+- Book Shelf interaction
+- PCs interactions
+- Boss Dialogues changes
+- Ray Dialogue changes
+- Other NPC dialogues
+
+3 City Day 2:
+- Car interactions
+
+4 Mountain:
+- Dialogues
+- Clue Dialogues
+
+5 Mountains Day 2:
+- Clues Dialogue
+
+6 Mountains Graveyards:
+- Dialogues
+
+7 Mountains Cutscene:
+- Dialogues
+
+8 Mansion Exterior
+- Environment Tiles Change
+- Fixed Mansion Entrance Loop (Would keep looping the first mansion entrance event)
+
+9 Mansion Entrance:
+- Brightened the 'No Light' tint
+- Environment Tiles
+
+10 Hotel:
+- Environment tiles change
+
+11 Mansion:
+- Dialgues
+- Environment Tiles Change
+
+12 Circuit Breaker Room:
+- Interaction dialogues
+
+13 Mansion Scene: 
+- Environemt Tiles
+
+14 MansionScene 2:
+- Environment tiles
+
+15 Mansion Upper:
+- Environment tiles
+- Dialogues
+- Stairs Blocks
+
+16 Rooms Left: 
+- Dialogues 
+- Env Tiles
+
+17 Rooms Right:
+- Dialogues
+- Env Tiles
+
+18 Lunch/Dinner (All scenes):
+- Environment Tiles
+- Dialogues
+
+19 Kitchen:
+- Env Tiles
+
+20 Library 1 & 2:
+- Env Tiles
+
+21 Rooms Left Scene: 
+- Env Tiles
+- Dialogues
+
+22 Walter Room:
+- Dialogues
+
+23 Kitchen Scene:
+- Dialogues 
+
+
+24 Ray:
+- Dialogues
+
+25 Ed and katarina:
+- Dialogues
+
+26 Hall:
+- Env Tiles
+
+27 BreakfastScene:
+- Env Tiles
+- Dialogues
+
+
+
