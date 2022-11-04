@@ -2,5 +2,6 @@
 null,
 {"id":1,"battlerName":"","characterIndex":6,"characterName":"Male Heroes","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Male7_Face-Set","traits":[],"initialLevel":1,"maxLevel":1,"name":"Edmund","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"","characterIndex":2,"characterName":"Female Heroes","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Fem3_Face-Set","traits":[],"initialLevel":1,"maxLevel":1,"name":"Katarina","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":5,"characterName":"Male Heroes","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Male6_Face-Set","traits":[],"initialLevel":1,"maxLevel":1,"name":"Ray","nickname":"","note":"","profile":""}
+{"id":3,"battlerName":"","characterIndex":5,"characterName":"Male Heroes","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Male6_Face-Set","traits":[],"initialLevel":1,"maxLevel":1,"name":"Ray","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":7,"characterName":"Male Heroes","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Male8_Face-Set","traits":[],"initialLevel":1,"maxLevel":99,"name":"Peter","nickname":"","note":"","profile":""}
 ]
