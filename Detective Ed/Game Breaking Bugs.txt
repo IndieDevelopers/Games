@@ -1,0 +1,6 @@
+1) Mansion Entrance scene starts again after Ray Guarding storage room scene
+
+2) Home Scene: Packing things for the trip scene bug
+
+3) Store Room loop. Keeps looping the scene where Ed wakes up Katarina
+
